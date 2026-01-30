@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Maksym\\Documents\\ReleaseDayRepo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maksym\\Documents\\ReleaseDayRepo\\src\\SmartTokens\\ConvertToBinary.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\SmartTokens\\ConvertToBinary.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maksym\\Documents\\ReleaseDayRepo\\src\\SmartTokens\\ConvertDateToNumber.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\SmartTokens\\ConvertDateToNumber.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maksym\\Documents\\ReleaseDayRepo\\src\\SmartTokens\\ConvertToString.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\SmartTokens\\ConvertToString.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maksym\\Documents\\ReleaseDayRepo\\src\\SmartTokens\\index.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\SmartTokens\\index.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cde3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConvertToBinary.js",
+              "DocumentMoniker": "C:\\Users\\Maksym\\Documents\\ReleaseDayRepo\\src\\SmartTokens\\ConvertToBinary.js",
+              "RelativeDocumentMoniker": "src\\SmartTokens\\ConvertToBinary.js",
+              "ToolTip": "C:\\Users\\Maksym\\Documents\\ReleaseDayRepo\\src\\SmartTokens\\ConvertToBinary.js",
+              "RelativeToolTip": "src\\SmartTokens\\ConvertToBinary.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-19T15:26:13.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConvertDateToNumber.js",
+              "DocumentMoniker": "C:\\Users\\Maksym\\Documents\\ReleaseDayRepo\\src\\SmartTokens\\ConvertDateToNumber.js",
+              "RelativeDocumentMoniker": "src\\SmartTokens\\ConvertDateToNumber.js",
+              "ToolTip": "C:\\Users\\Maksym\\Documents\\ReleaseDayRepo\\src\\SmartTokens\\ConvertDateToNumber.js",
+              "RelativeToolTip": "src\\SmartTokens\\ConvertDateToNumber.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-19T15:26:13.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConvertToString.js",
+              "DocumentMoniker": "C:\\Users\\Maksym\\Documents\\ReleaseDayRepo\\src\\SmartTokens\\ConvertToString.js",
+              "RelativeDocumentMoniker": "src\\SmartTokens\\ConvertToString.js",
+              "ToolTip": "C:\\Users\\Maksym\\Documents\\ReleaseDayRepo\\src\\SmartTokens\\ConvertToString.js",
+              "RelativeToolTip": "src\\SmartTokens\\ConvertToString.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-19T15:15:57.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\Maksym\\Documents\\ReleaseDayRepo\\src\\SmartTokens\\index.js",
+              "RelativeDocumentMoniker": "src\\SmartTokens\\index.js",
+              "ToolTip": "C:\\Users\\Maksym\\Documents\\ReleaseDayRepo\\src\\SmartTokens\\index.js",
+              "RelativeToolTip": "src\\SmartTokens\\index.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-19T15:15:53.317Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

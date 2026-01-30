@@ -1,0 +1,4 @@
+function Converter() {
+    convertToString();
+    convertDateToNumber();
+}
