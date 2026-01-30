@@ -1,5 +1,5 @@
 // program to implement stack data structure
-class Stack {
+class Stackss {
     constructor() {
         this.items = [];
     }
